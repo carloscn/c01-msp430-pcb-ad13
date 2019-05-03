@@ -1,0 +1,16 @@
+Added Component: Designator=JA(KLD-0202)
+Added Component: Designator=SA(SPST-2)
+Added Pin To Net: NetName=NetJA_1 Pin=JA-1
+Added Pin To Net: NetName=NetJA_1 Pin=JA-1A
+Added Pin To Net: NetName=NetJA_1 Pin=JA-1B
+Added Net: Name=NetJA_1
+Added Pin To Net: NetName=NetJA_2 Pin=JA-2
+Added Pin To Net: NetName=NetJA_2 Pin=JA-2A
+Added Pin To Net: NetName=NetJA_2 Pin=JA-2B
+Added Net: Name=NetJA_2
+Added Pin To Net: NetName=NetJA_3 Pin=JA-3
+Added Pin To Net: NetName=NetJA_3 Pin=JA-3A
+Added Pin To Net: NetName=NetJA_3 Pin=JA-3B
+Added Net: Name=NetJA_3
+Added Member To Class: ClassName=Sheet1 Member=Component JA PWR2.5
+Added Member To Class: ClassName=Sheet1 Member=Component SA SW-PB

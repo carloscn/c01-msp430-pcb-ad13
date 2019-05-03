@@ -1,0 +1,28 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Value~String~Value~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_PROJECT1.PRJPCB|ReportField=ProjectFullPath~C:\Users\lifim\Desktop\msp430f149\PCB_PROJECT1.PRJPCB|ReportField=Title~Bill of Materials For Project [PCB_PROJECT1.PRJPCB] (No PCB Document Selected)|ReportField=TotalQuantity~52|ReportField=ReportTime~15:02:53|ReportField=ReportDate~2019/4/23|ReportField=ReportDateTime~2019/4/23 15:02:53|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2019/4/23|ReportField=CurrentTime~15:02:33|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\lifim\Desktop\msp430f149\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/4/23|ReportField=Organization~|ReportField=ProjectName~PCB_PROJECT1.PRJPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_PROJECT1.PRJPCB|ReportField=DataSourceFullPath~C:\Users\lifim\Desktop\msp430f149\PCB_PROJECT1.PRJPCB
+|Capacitor|0.1uF, 0.1uF, 0.1uF, 0.1uF, 0.1uF, 4.7uF, 0.1uF, 0.1uF, 4.7uF|C1, C2, C4, C8, C10, C11, C12, C13, C14|CAP_SMD_0805_2012_M|Cap|9
+0.1uF|C Capacity||C20, C21, C22, C23, C24|CAP_SMD_0805_2012_M|C|5
+Socket|Socket||J1, J2, J3, J4|Screw_3x6|Socket|4
+Res2|Resistor|10K, 10K, 1K|R1, R2, R5|RES_SMD_0805_2012_M|Res2|3
+100R|R Resistor||R20, R21|RES_SMD_0805_2012_M|R|2
+22P||33pF|C5, C6|CAP_SMD_0805_2012_M|CAP|2
+Header 16X2|Header, 16-Pin, Dual row||P1, P2|HDR2X16|Header 16X2|2
+Header 3|Header, 3-Pin||P3, P6|HDR1X3|Header 3|2
+Header 4X2|Header, 4-Pin, Dual row||P4, P7|HDR2X4|Header 4X2|2
+Inductor|Inductor|10mH|L1, L2|RES_SMD_0805_2012_M|Inductor|2
+LED0|Typical INFRARED GaAs LED||D1, D2|LED_SMD_0805_2012_M|LED0|2
+SW-PB|Switch||S1, S2|SW01|SW-PB|2
+|Capacitor|0.1uF|C3|c0805|Cap|1
+|Crystal Oscillator||Y1|XTAL32|XTAL|1
+12M|||Y2|XTAL_DIP_HC49US2_N|CRYSTAL|1
+500mA FUSE|Resistor||R4|1812|Res2|1
+AMS1117|||U2|SOT230P700X180-4N|AMS1117|1
+CAP|||C7|AEC_SMD_6.3*5.3_6.3*7.7_M|CAP|1
+CAP|||C9|EC6.3X6.3|CAP|1
+DB9_Female|J Receptacle Assembly, 9 Position, Right Angle||J20|DSUB1.385-2H9|DB9|1
+Header 5X2H|Header, 5-Pin, Dual row, Right Angle||P?|HDR2X5H|Header 5X2H|1
+Header 7X2|Header, 7-Pin, Dual row||P5|HDR2X7|Header 7X2|1
+MSP430F16 7/8/9|||U1|TQFP-64|MSP430F14 7/8/9|1
+PWR2.5|Low Voltage Power Supply Connector||JA|KLD-0202|PWR2.5|1
+Res2|Resistor|330|R3|CAP_SMD_0805_2012_M|Res2|1
+SP3232|U +3.3V Powered RS-232 Driver/Receiver||Ud|SOIC-16N|MAX3232|1
+SW-PB|Switch||SA|SPST-2|SW-PB|1

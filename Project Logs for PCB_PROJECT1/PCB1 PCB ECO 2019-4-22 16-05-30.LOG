@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RXD1 Pin=J21-2
+Removed Pin From Net: NetName=TXD1 Pin=J21-3
+Removed Pin From Net: NetName=GND Pin=J21-5
+Removed Member From Class: ClassName=Sheet1 Member=J21
+Added Member To Class: ClassName=Sheet1 Member=Component C9 CAP

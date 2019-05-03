@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Pin From Net: NetName=GND Pin=USB1-5
+Removed Member From Class: ClassName=Sheet1 Member=USB1
+Change Component Footprint: Designator=U2 Old Footprint=AMS1117 New Footprint=SOT230P700X180-4N
+Change Component Footprint: Designator=C1 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C2 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C4 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C5 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C6 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C8 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C10 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C11 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C12 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C13 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C14 Old Footprint=c0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=C7 Old Footprint=EC6.3X6.3 New Footprint=AEC_SMD_6.3*5.3_6.3*7.7_M
+Change Component Footprint: Designator=D1 Old Footprint=led_1 New Footprint=LED_SMD_0805_2012_M
+Change Component Footprint: Designator=D2 Old Footprint=LED_1 New Footprint=LED_SMD_0805_2012_M
+Change Component Footprint: Designator=R3 Old Footprint=r0805 New Footprint=CAP_SMD_0805_2012_M
+Change Component Footprint: Designator=L1 Old Footprint=R0805 New Footprint=RES_SMD_0805_2012_M
+Change Component Footprint: Designator=L2 Old Footprint=R0805 New Footprint=RES_SMD_0805_2012_M
+Change Component Footprint: Designator=R1 Old Footprint=r0805 New Footprint=RES_SMD_0805_2012_M
+Change Component Footprint: Designator=R2 Old Footprint=r0805 New Footprint=RES_SMD_0805_2012_M
+Change Component Footprint: Designator=R5 Old Footprint=r0805 New Footprint=RES_SMD_0805_2012_M
+Change Component Footprint: Designator=U1 Old Footprint=TQFP64-0.5 New Footprint=TQFP-64
+Change Component Footprint: Designator=Y2 Old Footprint=TX New Footprint=XTAL_DIP_HC49US2_N
+Added Component: Designator=C20(CAP_SMD_0805_2012_M)
+Added Component: Designator=C21(CAP_SMD_0805_2012_M)
+Added Component: Designator=C22(CAP_SMD_0805_2012_M)
+Added Component: Designator=C23(CAP_SMD_0805_2012_M)
+Added Component: Designator=C24(CAP_SMD_0805_2012_M)
+Added Component: Designator=J20(DSUB1.385-2H9)
+Added Component: Designator=J21(DSUB1.385-2H9)
+Added Component: Designator=P?(HDR2X5H)
+Added Component: Designator=R20(RES_SMD_0805_2012_M)
+Added Component: Designator=R21(RES_SMD_0805_2012_M)
+Added Component: Designator=R22(RES_SMD_0805_2012_M)
+Added Component: Designator=R23(RES_SMD_0805_2012_M)
+Added Component: Designator=Ud(SSOP20P-20N-74x50)
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC+5 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=J20-5
+Added Pin To Net: NetName=GND Pin=J21-5
+Added Pin To Net: NetName=P3_3 Pin=P?-2
+Added Pin To Net: NetName=P3_0 Pin=P?-4
+Added Pin To Net: NetName=P2_7 Pin=P?-5
+Added Pin To Net: NetName=P3_1 Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-7
+Added Pin To Net: NetName=P3_2 Pin=P?-8
+Added Pin To Net: NetName=P3_4 Pin=R20-2
+Added Pin To Net: NetName=P3_5 Pin=R21-2
+Added Pin To Net: NetName=P3_6 Pin=R22-2
+Added Pin To Net: NetName=P3_7 Pin=R23-2
+Added Pin To Net: NetName=GND Pin=Ud-15
+Added Pin To Net: NetName=VCC+5 Pin=Ud-16
+Added Pin To Net: NetName=INT Pin=P?-3
+Added Net: Name=INT
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=Ud-1
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=Ud-3
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=Ud-4
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=Ud-5
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=Ud-2
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=Ud-6
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetJAC1_1 Pin=R4-1
+Added Net: Name=NetJAC1_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=Ud-11
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=Ud-12
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=Ud-10
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=Ud-9
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=RXD0 Pin=J20-3
+Added Pin To Net: NetName=RXD0 Pin=Ud-13
+Added Net: Name=RXD0
+Added Pin To Net: NetName=RXD1 Pin=J21-2
+Added Pin To Net: NetName=RXD1 Pin=Ud-8
+Added Net: Name=RXD1
+Added Pin To Net: NetName=TXD0 Pin=J20-2
+Added Pin To Net: NetName=TXD0 Pin=Ud-14
+Added Net: Name=TXD0
+Added Pin To Net: NetName=TXD1 Pin=J21-3
+Added Pin To Net: NetName=TXD1 Pin=Ud-7
+Added Net: Name=TXD1
+Added Pin To Net: NetName=VCC_5V Pin=P?-9
+Added Net: Name=VCC_5V
+Added Member To Class: ClassName=Sheet1 Member=Component C20 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C21 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C22 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C23 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C24 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component J20 DB9_Female
+Added Member To Class: ClassName=Sheet1 Member=Component J21 DB9_Male
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 5X2H
+Added Member To Class: ClassName=Sheet1 Member=Component R20 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R21 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R22 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R23 100R
+Added Member To Class: ClassName=Sheet1 Member=Component Ud SP3232

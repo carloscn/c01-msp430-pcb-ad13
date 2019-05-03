@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=JA-2A
+Added Pin To Net: NetName=GND Pin=JA-2B
+Added Pin To Net: NetName=GND Pin=JA-2
+Added Pin To Net: NetName=GND Pin=JA-3A
+Added Pin To Net: NetName=GND Pin=JA-3B
+Added Pin To Net: NetName=GND Pin=JA-3
+Added Pin To Net: NetName=NetJA_1 Pin=SA-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SA-1
+Added Net: Name=NetR4_1
